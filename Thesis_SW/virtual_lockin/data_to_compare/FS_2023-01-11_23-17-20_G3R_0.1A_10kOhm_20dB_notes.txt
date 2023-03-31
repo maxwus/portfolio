@@ -1,0 +1,14 @@
+Drive (Vrms):  2.150000000000E-1
+Start freq. (Hz):  1.486760000000E+4
+End freq. (Hz):  1.486900000000E+4
+Waiting (s):  2.000000000000E+2
+Fit f0 (Hz): 1.486822407194E+4
+Fit df (Hz): 3.131184199177E-2
+Fit Ampl (Vrms): 1.007042342252E-4
+Fit Q (-): 4.748434817681E+5
+Fit HWD (Hz): 1.466620962772E-5
+Fit x bgnd intercept (Vrms): -2.650515116088E-2
+Fit y bgnd intercept (Vrms): -1.517182356138E-2
+Fit x bgnd slope (Vrms/Hz): 1.782874483140E-6
+Fit y bgnd slope (Vrms/Hz): 1.020109604794E-6
+Fit phase (deg): -1.691329053509E+1
